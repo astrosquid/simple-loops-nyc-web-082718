@@ -14,7 +14,8 @@ def loop_iterator(number_of_times)
     if counter == 7 
       break 
     else 
-      puts ""
+      puts "Welcome to Flatiron School's Web Development Course!"
+    end
 end
 
 def times_iterator(number_of_times)
